@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "john-web-part-1",
+    "libraryId": "ca260295-396d-4d23-82bf-5ff8a8c4654f",
+    "environment": "spo"
+  }
+}

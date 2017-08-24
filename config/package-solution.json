@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "john-web-part-1-client-side-solution",
+    "id": "ca260295-396d-4d23-82bf-5ff8a8c4654f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/john-web-part-1.sppkg"
+  }
+}

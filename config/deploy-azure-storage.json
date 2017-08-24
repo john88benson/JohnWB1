@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "john-web-part-1",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

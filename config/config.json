@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jbListWebPart/JbListWebPartWebPart.js",
+      "manifest": "./src/webparts/jbListWebPart/JbListWebPartWebPart.manifest.json",
+      "outputPath": "./dist/jb-list-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "jbListWebPartStrings": "webparts/jbListWebPart/loc/{locale}.js"
+  }
+}
